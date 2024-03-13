@@ -1,0 +1,16 @@
+.header{
+    height: 100px;
+    background: lemonchiffon;
+}
+.logo{
+    background: burlywood;
+}
+.header--text{
+    font-size: calc(0.5rem+5vw);
+}
+.nav{
+    background: darkcyan;
+}
+.content{
+    background: skyblue;
+}
